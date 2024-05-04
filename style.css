@@ -78,6 +78,7 @@ body {
     font-weight: bold;
     outline: none;
     border: 0;
+    margin: 0;
 }
   
 .header_lista .btn:hover {
